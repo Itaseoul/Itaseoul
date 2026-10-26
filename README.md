@@ -4,9 +4,9 @@ ITASEOUL is a South Korean nonprofit that turns citizens' cleanup records into d
 이타서울은 시민이 동네와 해변을 치우며 남긴 기록을 도시와 환경을 바꾸는 자료로 만드는 비영리 단체입니다.
 
 - **Website 누리집:** [itaseoul.org](https://itaseoul.org)
-- **Platform 기록 플랫폼:** [ita.city](https://ita.city)
-  - 21,404 contributors, 85,988 cleanup sessions, 7,121,937 items recorded (as of Oct 26, 2026).
-  - 기록한 시민 21,404인, 활동 85,988회, 주운 쓰레기 7,121,937개 (2026년 10월 26일 기준).
+- **Platform 기록 플랫폼:** [new.ita.city](https://new.ita.city)
+  - 101,189 cumulative participants and 7,121,944 items picked up since 2020 (as of Oct 26, 2026).
+  - 2020년부터 함께한 시민(연인원) 101,189명, 주운 쓰레기 7,121,944개 (2026년 10월 26일 기준).
   - *Item counts reflect volunteer effort, not the total amount of litter in a place.*
   - *주운 개수는 참여자가 들인 노력의 양이며, 그 장소의 쓰레기 전체의 양은 아닙니다.*
 - **Open data 공개 자료:** Itacity records are shared under CC BY-NC 4.0. 이타시티 기록은 CC BY-NC 4.0으로 공개합니다.
